@@ -268,6 +268,8 @@
 			<dict>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,20,3</string>
+				<key>pci-aspm-default</key>
+				<data>0000</data>
 				<key>device_type</key>
 				<string>네트워크 컨트롤러</string>
 				<key>model</key>
